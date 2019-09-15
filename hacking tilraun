@@ -1,0 +1,10 @@
+Ég reyndi að setja eitthvað eins og: 
+
+USE myfirst DROP TABLE api;
+DROP TABLE api;
+DROP INDEX flightNumber ON api;
+ALTER TABLE api DROP COLUMN flightNumber;
+
+inn í input fields og senda en sá engan árangur með því. 
+
++ Fór ekki í að reyna að fá kommentin til að virka :( 
